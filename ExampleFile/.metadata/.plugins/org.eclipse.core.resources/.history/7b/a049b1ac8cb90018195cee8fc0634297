@@ -1,0 +1,10 @@
+import java.net.*;
+public class Net {
+		public static void main(String args[]) throws UnknownHostException{
+			InetAddress inet= InetAddress.getByName("Admin-PC"); 
+			System.out.println(inet.getHostAddress());
+			byte b[]={(byte)192, (byte)168, 43, 50};
+			InetAddress inet2= InetAddress.getByAddress(b);
+			System.out.println(inet2.getHostName());
+		}
+}

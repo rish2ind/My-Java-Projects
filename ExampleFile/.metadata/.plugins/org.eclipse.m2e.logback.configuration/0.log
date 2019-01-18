@@ -1,0 +1,115 @@
+2018-06-12 15:38:35,065 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-06-12 15:38:35,440 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-06-12 15:38:35,610 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:50423
+2018-07-15 08:23:43,084 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-15 08:23:43,349 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-15 08:23:43,537 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49163
+2018-07-18 20:06:56,058 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-18 20:06:56,769 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-18 20:06:57,114 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49625
+2018-07-18 20:21:15,672 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-18 20:21:15,885 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-18 20:21:15,998 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49759
+2018-07-18 22:34:22,760 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-18 22:34:23,494 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-18 22:34:23,665 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49240
+2018-07-18 22:41:08,795 [Worker-8] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
+2018-07-18 22:53:53,481 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-18 22:53:53,590 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-18 22:53:53,684 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49352
+2018-07-18 23:28:00,121 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-18 23:28:00,261 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-18 23:28:00,355 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49719
+2018-07-19 21:11:32,742 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-19 21:11:33,181 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-19 21:11:33,441 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49854
+2018-07-20 19:01:14,983 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-20 19:01:15,311 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-20 19:01:15,420 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49163
+2018-07-24 16:04:03,444 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-24 16:04:03,569 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-24 16:04:03,662 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49163
+2018-07-28 21:37:44,527 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-28 21:37:44,995 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-28 21:37:45,276 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49163
+2018-07-29 08:20:14,437 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-29 08:20:14,562 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-29 08:20:14,640 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49169
+2018-07-29 18:41:47,454 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-29 18:41:47,656 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-29 18:41:47,750 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49188
+2018-07-30 21:00:18,968 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-30 21:00:19,280 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-30 21:00:19,483 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49163
+2018-07-31 19:26:38,374 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-07-31 19:26:38,982 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-07-31 19:26:39,263 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:51404
+2018-08-01 18:55:35,417 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-01 18:55:35,682 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-01 18:55:35,760 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49195
+2018-08-06 20:08:47,826 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-06 20:08:48,091 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-06 20:08:48,216 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49263
+2018-08-08 21:43:55,174 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-08 21:43:55,647 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-08 21:43:55,976 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:51511
+2018-08-08 22:18:51,460 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-08 22:18:51,694 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-08 22:18:51,850 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:51978
+2018-08-09 21:34:46,190 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-09 21:34:52,212 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-09 21:34:55,831 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49200
+2018-08-11 20:30:38,156 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-11 20:30:38,375 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-11 20:30:38,468 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49371
+2018-08-12 12:53:46,430 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-12 12:53:47,381 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-12 12:53:47,771 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49876
+2018-08-12 20:16:44,509 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-12 20:16:44,711 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-12 20:16:44,805 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49252
+2018-08-16 22:10:26,036 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-16 22:10:26,317 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-16 22:10:26,457 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49259
+2018-08-17 18:42:37,864 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-17 18:42:38,208 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-17 18:42:38,566 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49684
+2018-08-18 23:00:12,027 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-18 23:00:12,246 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-18 23:00:12,339 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49350
+2018-08-22 20:25:05,970 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-22 20:25:06,313 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-22 20:25:06,610 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49274
+2018-08-23 21:52:33,050 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-23 21:52:33,495 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-23 21:52:33,932 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:50859
+2018-08-24 23:37:16,593 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-08-24 23:37:16,795 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-08-24 23:37:16,873 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:50368
+2018-09-05 22:49:44,499 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-05 22:49:45,856 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-05 22:49:46,231 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49175
+2018-09-05 23:39:35,657 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-05 23:39:35,781 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-05 23:39:35,844 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49889
+2018-09-07 20:01:16,694 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-07 20:01:16,991 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-07 20:01:17,100 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49291
+2018-09-08 14:08:59,296 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-08 14:08:59,670 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-08 14:08:59,826 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49307
+2018-09-09 22:25:28,135 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-09 22:25:28,416 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-09 22:25:28,541 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49251
+2018-09-10 20:32:16,876 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-10 20:32:17,063 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-10 20:32:17,141 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49489
+2018-09-12 19:39:21,336 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-12 19:39:21,648 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-12 19:39:21,757 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49267
+2018-09-16 14:05:42,321 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-16 14:05:42,587 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-16 14:05:42,711 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49352
+2018-09-17 18:38:20,902 [Start Help Server] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2018-09-17 18:38:21,121 [Start Help Server] INFO  org.mortbay.log - jetty-6.1.x
+2018-09-17 18:38:21,214 [Start Help Server] INFO  org.mortbay.log - Started SelectChannelConnector@127.0.0.1:49343

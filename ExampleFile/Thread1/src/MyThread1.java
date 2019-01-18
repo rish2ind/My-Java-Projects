@@ -1,0 +1,32 @@
+class MyThread extends Thread{
+	MyThread(String m){
+		setName(m);
+	}
+	public void run(){
+		for (int i = 0; i < 150; i++) {
+			System.out.println("Child "+getName() + i);
+			try {
+				Thread.sleep(50);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+}
+class MyThread1 {
+	public static void main(String[] args)	throws InterruptedException {
+		MyThread t1=new MyThread("First");
+		MyThread t2=new MyThread("Second");
+		t1.start();
+		t2.start();
+		Thread.sleep(1000);
+		t1.suspend();
+		Thread.sleep(1000);
+		t1.resume();
+		Thread.sleep(1000);
+		t2.suspend();
+		Thread.sleep(1000);
+		t2.resume();
+	}
+
+}

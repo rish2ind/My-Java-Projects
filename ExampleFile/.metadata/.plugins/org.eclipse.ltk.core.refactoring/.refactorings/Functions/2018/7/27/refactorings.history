@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;static void multiply(Scanner sc)&apos; from &apos;Methods.main()&apos; to &apos;Methods&apos;&#x0D;&#x0A;- Original project: &apos;Functions&apos;&#x0D;&#x0A;- Method name: &apos;multiply&apos;&#x0D;&#x0A;- Destination type: &apos;Methods&apos;&#x0D;&#x0A;- Declared visibility: &apos;(default)&apos;" comments="false" description="Extract method &apos;multiply&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{Methods.java" name="multiply" replace="false" selection="598 156" stamp="1530960961221" version="1.0" visibility="0"/>
+</session>

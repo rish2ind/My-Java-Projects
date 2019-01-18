@@ -1,0 +1,57 @@
+class AgeExceptions extends Exception{
+	AgeExceptions(String msg){
+		super(msg);
+	}
+}
+@SuppressWarnings("serial")
+class FeesExceptions extends Exception{
+	FeesExceptions(String msg){
+		super(msg);
+	}
+}
+@SuppressWarnings("serial")
+class AdmissionFailedExceptions extends Exception{
+	AdmissionFailedExceptions(String msg){
+		super(msg);
+	}
+}
+class AdmissionOp{
+	private int age;
+	private int fees;
+	void setdata(int age, int fees) throws AdmissionFailedExceptions{
+		if(age<0){
+			AgeExceptions e1= new AgeExceptions("Invalid age ");
+			AdmissionFailedExceptions e2= new AdmissionFailedExceptions("Admission Failed");
+			e2.initCause(e1);
+			throw e2;
+		}
+		else if(fees<5000){
+			FeesExceptions e1= new FeesExceptions("Fees not complete");
+			AdmissionFailedExceptions e2= new AdmissionFailedExceptions("Admission Failed");
+			e2.initCause(e1);
+			throw e2;
+		}
+		else{
+			this.age=age;
+			this.fees=fees;
+		}
+	}
+	void display(){
+		System.out.println("Your admission is confirmed");
+		System.out.println("Age : " + age);
+		System.out.println("Fees : "+fees);
+	}
+}
+public class ExcHl {
+	public static void main(String[] args) {
+		AdmissionOp a1=new AdmissionOp();
+		try {
+			a1.setdata(20, 5000);
+			a1.display();
+		} catch (AdmissionFailedExceptions e) {
+			e.getMessage();
+			System.out.print("due to "+e.getMessage());
+		}
+	}
+
+}

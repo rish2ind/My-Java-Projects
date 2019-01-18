@@ -1,0 +1,14 @@
+ import java.net.*;
+import java.io.*;
+public class A {
+	public static void main(String[] args) throws MalformedURLException {
+		URL u1=new URL("http://www.google.com:8080/abc/index.html");
+		System.out.println(u1.getProtocol());
+		System.out.println(u1.getHost());
+		System.out.println(u1.getPort());
+		System.out.println(u1.getFile());
+		System.out.println(u1.toExternalForm());
+		System.out.println(u1);
+	}
+
+}
